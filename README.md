@@ -1,4 +1,5 @@
-# CalculatorV1.0
+# CalculatorV1.0 ![calculator](https://github.com/DarielEGM/calculatorV1.0/assets/123778387/871bf936-10f8-40ef-ba17-69b493b3e63d)
+
 
 This project was built with JavaScript, HTML and CSS.
 
