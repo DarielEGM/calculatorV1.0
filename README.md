@@ -7,7 +7,9 @@ The purpose of the application is to perform mathematical calculations similar t
 ## ✨**Main View**✨
 
 Here is an example of what the app looks like when it runs.
-![1](https://github.com/DarielEGM/calculatorV1.0/assets/123778387/0367337c-12ee-48de-bd21-5bfee389d875)
-![2](https://github.com/DarielEGM/calculatorV1.0/assets/123778387/de6ab1ea-e079-41a8-8b12-6f06ea638805)
-![3](https://github.com/DarielEGM/calculatorV1.0/assets/123778387/ad420e5f-e737-45a1-b5a0-b850039a1e0b)
-![4](https://github.com/DarielEGM/calculatorV1.0/assets/123778387/c4588615-c9ec-4b7a-b507-8308bfe48f15)
+
+![1](https://github.com/DarielEGM/calculatorV1.0/assets/123778387/e949e21d-2171-45d9-8d0b-16cda003bd51)
+![2](https://github.com/DarielEGM/calculatorV1.0/assets/123778387/e9f5c494-43fa-49d2-9cbd-f91d6fd9655c)
+![3](https://github.com/DarielEGM/calculatorV1.0/assets/123778387/373a0530-52f8-4424-8202-4ee9e44410b8)
+![4](https://github.com/DarielEGM/calculatorV1.0/assets/123778387/4e625253-6982-4d6e-a837-505b3218fc52)
+![5](https://github.com/DarielEGM/calculatorV1.0/assets/123778387/5b036ae5-9440-4775-86a9-1c0d902669d5)
